@@ -1,5 +1,5 @@
 
-class Bank {
+class Banks {
 	public static void main(String[] args) {
 		int p = 1000, t = 3, r;
 		System.out.println(t > 5);
