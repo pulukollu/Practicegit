@@ -16,5 +16,6 @@ class Banks {
 		}
 		int interest = (p * t * r) / 100;
 		System.out.println(interest); 
+		go();
 	}
 }
